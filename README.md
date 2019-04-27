@@ -52,6 +52,8 @@ def global_context_block(x, channels, use_bias=True, sn=False, scope='gc_block')
 
 ### Usage
 ```python
+from GCNet import *
+
 x = global_context_block(x, channels=64, use_bias=True, sn=True, scope='gc_block')
 ```
 ## Author
