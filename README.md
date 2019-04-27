@@ -1,10 +1,11 @@
 # GCNet-Tensorflow
 
+Simple Tensorflow implementation of ["GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond"](https://arxiv.org/abs/1904.11492)
+
+
 <div align="center">
   <img src="./assets/teaser.png">
 </div>
-
-Simple Tensorflow implementation of ["GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond"](https://arxiv.org/abs/1904.11492)
 
 ## Summary
 ### Architecture
