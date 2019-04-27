@@ -56,5 +56,8 @@ from GCNet import *
 
 x = global_context_block(x, channels=64, use_bias=True, sn=True, scope='gc_block')
 ```
+
+## Related works
+* [Tensorflow cookbook](https://github.com/taki0112/Tensorflow-Cookbook)
 ## Author
 Junho Kim
